@@ -607,7 +607,7 @@ Looks like port 41312 is dropping everything.
 
 ### capture.pcap
 
-![Example Image](images/encryted.png)
+![Example Image](images/encrypted.png)
 
 Lots of encrypted data here in the pcap file.
 
